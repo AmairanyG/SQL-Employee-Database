@@ -9,17 +9,18 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
 
-Data Modeling
+1. Data Modeling
 
 
-Data Engineering
+2. Data Engineering
 
 
-Data Analysis
+3. Data Analysis
 
 
 
 ### Instructions
+-----------------------------------------------------------------------------------------------------
 
 #### Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
@@ -27,10 +28,10 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 ### Data Engineering
 
 
-Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+- Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 
-Import each CSV file into the corresponding SQL table.
+- Import each CSV file into the corresponding SQL table.
 
 
 
@@ -62,18 +63,18 @@ Once you have a complete database, do the following:
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 ### Submission
+-----------------------------------------------------------------------------------------------------
+
+- Create an image file of your ERD.
 
 
-Create an image file of your ERD.
+- Create a .sql file of your table schemata.
 
 
-Create a .sql file of your table schemata.
+- Create a .sql file of your queries.
 
 
-Create a .sql file of your queries.
+- (Optional) Create a Jupyter Notebook of the bonus analysis.
 
 
-(Optional) Create a Jupyter Notebook of the bonus analysis.
-
-
-Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+- Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
