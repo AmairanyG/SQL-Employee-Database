@@ -1,7 +1,5 @@
-# SQL-Homework-09
+# Employee Database: A Mystery in Two Parts
 USC Data Analytics SQL
-
-## Employee Database: A Mystery in Two Parts
 
 
 ### Background
