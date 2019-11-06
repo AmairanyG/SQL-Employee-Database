@@ -24,7 +24,7 @@ Inspected the Employees' CSVs and sketch an ERD of the tables. Utilized the foll
 
 
 ### Data Analysis
-Answered the below questions by joining tables on common ID's, and utilizing WHERE, GROUP BY, and ORDER BY clouses
+Ran multiple SQL queries to answered the below questions by joining tables on indexes, and utilizing WHERE, GROUP BY, and ORDER BY clauses 
   
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
