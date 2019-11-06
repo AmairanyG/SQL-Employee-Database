@@ -12,7 +12,7 @@ Conducted a research project on employees of the Pewlett Hackard corporation fro
 
 #### Data Modeling
 Inspected the Employees' CSVs and sketch an ERD of the tables. Utilized the following tool to sketch the EDR: http://www.quickdatabasediagrams.com.
-![EDR](EDR/EDR.PNG)
+
 
 ### Data Engineering
 
