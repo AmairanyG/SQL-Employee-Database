@@ -2,18 +2,8 @@
 USC Data Analytics SQL
 
 
-### Background
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
-
-
-1. Data Modeling
-
-
-2. Data Engineering
-
-
-3. Data Analysis
+### Overview
+Conducted a research project on employees of the Pewlett Hackard corporation from the 1980s and 1990s. Designed the tables to hold data in the CSVs, imported six CSVs files into a SQL database, and answered questions about the data to complete data analysis.
 
 
 
@@ -21,22 +11,21 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 -----------------------------------------------------------------------------------------------------
 
 #### Data Modeling
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+Inspected the Employees' CSVs and sketch an ERD of the tables. Utilized the following tool to sketch the EDR: http://www.quickdatabasediagrams.com.
+![EDR](EDR/EDR.PNG)
 
 ### Data Engineering
 
+- Created a table schema for each of the six CSV files specifying data types, primary keys, foreign keys, and other constraints.
 
-- Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-
-- Import each CSV file into the corresponding SQL table.
+- Imported each CSV file into the corresponding SQL table.
 
 
 
 ### Data Analysis
-Once you have a complete database, do the following:
-
-
+Answered the below questions by joining tables on common ID's, and utilizing WHERE, GROUP BY, and ORDER BY clouses
+  
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
 
@@ -59,20 +48,3 @@ Once you have a complete database, do the following:
 
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
-
-### Submission
------------------------------------------------------------------------------------------------------
-
-- Create an image file of your ERD.
-
-
-- Create a .sql file of your table schemata.
-
-
-- Create a .sql file of your queries.
-
-
-- (Optional) Create a Jupyter Notebook of the bonus analysis.
-
-
-- Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
