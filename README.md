@@ -1,5 +1,4 @@
-# Employee Database: A Mystery in Two Parts
-USC Data Analytics SQL
+# Employee Database
 
 
 ### Overview
@@ -32,7 +31,7 @@ Conducted a research project on employees of the Pewlett Hackard corporation fro
   
 -----------------------------------------------------------------------------------------------------
 
-#### Data Modeling
+### Data Modeling
 Inspected the Employees' CSVs and sketch an ERD of the tables. Utilized the following tool to sketch the EDR: http://www.quickdatabasediagrams.com.
 
 
