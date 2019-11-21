@@ -7,7 +7,29 @@ Conducted a research project on employees of the Pewlett Hackard corporation fro
 
 
 
-### Instructions
+### Queries Used
+- Data Definition Language Statements:
+  - ALTER
+  - DROP
+  - CREATE VIEW
+  - CONSTRAINT 
+  - PRIMARY KEY
+  - FOREIGN KEY
+- Data Manipulation Language Statements:
+  - SELECT
+  - FROM 
+  - APPEND
+  - DELETE
+  - UPDATE
+  - JOIN
+  - COMMIT
+- Aggregate Functions:
+  - SUM
+  - COUNT
+  - GROUP BY
+  - WHERE
+  - ORDER BY
+  
 -----------------------------------------------------------------------------------------------------
 
 #### Data Modeling
