@@ -1,9 +1,8 @@
-# Employee Database
+# Human Resources Data Analysis
 
 
 ### Overview
-Conducted a research project on employees of the Pewlett Hackard corporation from the 1980s and 1990s. Designed the tables to hold data in the CSVs, imported six CSVs files into a SQL database, and answered questions about the data to complete data analysis.
-
+Extracted actionable insights from employee job data collected over two decades. Developed an ERD using QuickDBD to hold provided data, imported files into PostGreSQL database, and answered questions about the data to complete data analysis.
 
 
 ### Queries Used
